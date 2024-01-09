@@ -6,7 +6,7 @@ OpenComputers Controller is a program that controls in-game drones with a USB co
 
 ### Pre-Built Installation
 
-Executables built with pyinstaller are available on the releases page
+Executables built with pyinstaller are available on the [Releases] page
 
 ### Manual Installation
 
@@ -37,6 +37,7 @@ After that all you have to do is flash the code to an EEPROM using `flash dronec
 
 This project is licenced under the [WTFPL].
 
+[Releases]: https://github.com/quinn-n/OpenComputers_Controller/releases
 [OpenComputers]: https://www.curseforge.com/minecraft/mc-mods/opencomputers
 [Crunch]: https://oc.cil.li/topic/511-crunch-break-the-4k-limit/
 [WTFPL]: http://www.wtfpl.net/about/
